@@ -18,7 +18,7 @@ ikitamalarose/ikitamalarose is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/melia_moon69) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bellevie-larose-ebonga-ikitama) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@melia_moon69) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ikitamacodes) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bellevie-larose-ebonga-ikitama) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ikitamacodes) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ikitamalarose&icon=0&color=0)](https://visitcount.itsvg.in)
