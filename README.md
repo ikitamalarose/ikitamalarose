@@ -18,8 +18,8 @@ ikitamalarose/ikitamalarose is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 # 
-<a href="https://app.daily.dev/ikitamalarose"><img src="https://api.daily.dev/devcards/v2/qlA1OAHHarQRa6NEvRbSy.png?type=wide&r=6be" width="652" alt="Ikitama Larose's Dev Card"/></a><br>
-<!--<a href="https://app.daily.dev/ikitamalarose"><img src="https://github.com/ikitamalarose/ikitamalarose/blob/main/devcard.svg" width="356"  alt="Ikitama Larose's Dev Card"/></a>-->
+<a href="https://app.daily.dev/ikitamalarose"><img src="https://api.daily.dev/devcards/v2/qlA1OAHHarQRa6NEvRbSy.png?type=wide&r=6be" width="512" alt="Ikitama Larose's Dev Card"/></a>
+<!--[![roadmap.sh](https://roadmap.sh/card/wide/66eda175e80161c4cbbed540?variant=dark)](https://roadmap.sh)<br>-->
 
 ## 🌐 Socials:
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/laroseikitama) 
